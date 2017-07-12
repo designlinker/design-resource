@@ -45,6 +45,9 @@ Most of the time you don't need to draw your own icons, or take your own photos.
 + [Adobe Typekit](https://typekit.com/)
 + [W3C关于纵书的规范](http://www.w3.org/TR/css3-writing-modes/)
 
++ [字体转换器在线转换 艺术字体在线生成](http://www.akuziti.com/)
+
++ [图片转文字 文字识别](http://www.pdfdo.com/image-to-txt.aspx)
 
 ## Colors
 
